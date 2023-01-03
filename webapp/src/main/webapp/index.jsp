@@ -1,5 +1,6 @@
 <div class="container">
-  <h1>Formulario de cadastro</h1>
+  <h1>Formulario de cadastro</h1><br>
+  <h2>Forneca as informacoes de cadastro abaixo:</h2>
   <form action="action_page.php">
 
     <label for="fname">First Name</label>
